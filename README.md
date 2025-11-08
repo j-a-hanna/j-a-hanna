@@ -1,4 +1,4 @@
-# 👋 Hello, I'm J Hanna
+# 👋 Hello, I'm Jeanette Attia Hanna
 
 I am an aspiring software developer with a growing interest in backend development, databases, and web technologies.  
 I recently completed a BS in Information Technology at the University of Massachusetts Lowell where I developed strong foundational skills in **web programming** through coursework and personal projects.
@@ -15,7 +15,7 @@ I'm continuing to develop my skills through studying **java programming** and **
 
 ### 🧠 Technical Skills
 
-- **Languages:** Java, ColdFusion, HTML, CSS  
+- **Languages:** Java, JavaScript, , Python, ColdFusion, HTML, CSS, PHP
 - **Areas of Interest:** Web development, database systems, backend logic  
 - **Currently Learning:** Object-oriented design principles and modern web development practices  
 
