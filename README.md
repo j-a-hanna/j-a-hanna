@@ -9,11 +9,11 @@ I'm continuing to develop my skills through studying **java programming** and **
 
 ### Featured Projects
 
-# java-exercises
-# bookstore-website
-# rogue-pickings
-# unplugged-retreat
-# i-am-jeanette
+- java-exercises
+- bookstore-website
+- rogue-pickings
+- unplugged-retreat
+- i-am-jeanette
 
 ---
 
