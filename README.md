@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jeanette Attia Hanna
+# Hello, I'm Jeanette Attia Hanna
 
 I am an aspiring software developer with a growing interest in backend development, databases, and web technologies.  
 
@@ -17,7 +17,7 @@ i-am-jeanette
 
 ---
 
-### 🧠 Technical Skills
+### Technical Skills
 
 - **Languages:** Java, JavaScript, , Python, ColdFusion, HTML, CSS, PHP
 - **Areas of Interest:** Web development, database systems, backend logic  
@@ -25,7 +25,7 @@ i-am-jeanette
 
 ---
 
-### 🎯 Goals
+### Goals
 
 - Expand my knowledge of full-stack development and server-side frameworks  
 - Continue building and sharing practical coding projects  
@@ -33,6 +33,6 @@ i-am-jeanette
 
 ---
 
-### 📫 Contact
+### Contact
 
 - I can be reached here on GitHub or via LinkedIn (https://www.linkedin.com/in/jeanette-attia-hanna/). Thank you for visiting my page.
