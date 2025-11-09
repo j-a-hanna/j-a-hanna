@@ -35,4 +35,4 @@ i-am-jeanette
 
 ### Contact
 
-- I can be reached here on GitHub or via LinkedIn (https://www.linkedin.com/in/jeanette-attia-hanna/). Thank you for visiting my page.
+- I can be reached here on GitHub or via LinkedIn: https://www.linkedin.com/in/jeanette-attia-hanna/. Thank you for visiting my page!
