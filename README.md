@@ -4,7 +4,7 @@ I am an aspiring software developer with a growing interest in backend developme
 
 I recently completed a BS in Information Technology at the University of Massachusetts Lowell where I developed strong foundational skills in **web programming** through coursework and personal projects.
 
-I'm continuing to develop my skills through studying **java programming** and **full-stack devleopment** through my studies.
+I'm currently learning **java programming** and **full-stack devleopment**.
 ---
 
 ### Featured Projects
