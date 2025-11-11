@@ -35,4 +35,4 @@ I'm currently learning **java programming** and **full-stack devleopment**.
 
 ### Contact
 
-- I can be reached here on GitHub or via LinkedIn: https://www.linkedin.com/in/jeanette-attia-hanna/. Thank you for visiting my page!
+- Thank you for visiting my page!
