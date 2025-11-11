@@ -1,4 +1,4 @@
-# Hello, I'm Jeanette Attia Hanna
+# Hello, I'm J Hanna,
 
 I am an aspiring software developer with a growing interest in backend development, databases, and web technologies.  
 
